@@ -1,0 +1,96 @@
+/* Tu CSS va aqui */
+header{
+
+}
+.navbar-header .pink{
+	color: #F05F40;
+}
+
+.fondo1{
+	background-image: url("../img/header.jpg");
+    height: 650px;
+    background-position: center;
+    background-size: cover;
+    margin-top: 50px;
+    background-attachment: fixed;
+}
+.titulo{
+	color: white;
+    padding: 12% 25%;
+
+}
+hr{
+	width: 5%;
+    height: 3px;
+    border: none;
+}
+.rosa{
+	background-color: #F05F40;
+}
+.white{
+	background-color: white;
+}
+.pd-0-15{
+	padding: 5% 1%;
+}
+.pd-t-6{
+	padding-top: 6%;
+}
+.pd-0-25{
+	padding: 0% 25%;
+}
+.boton1{
+	background-color: #F05F40;
+    border: none;
+    border-radius: 20px;
+    margin: 8%;
+}
+.boton1:hover {
+    color: #F05F40;
+    background-color: white;
+}
+.fondo2{
+	background-color: #F05F40;
+    height: 300px;
+    margin-top: -20px;
+    color: white;
+}
+.fondo3{
+	background-color:white;
+    height: 360px;
+    margin-top: -20px;
+    color: black;
+}
+.font3em{
+	font-size: 3em;
+}
+.fontpink{
+    color: #F05F40; 
+}
+.fontblack{
+    color: #222222;
+}
+.no-pm{
+	padding: 0px;
+	margin: 0%;
+}
+.fondo4{
+	background-color:#222222;
+    height: 190px;
+    color: white;
+    padding: 3.5%;
+    font-size: 2em;
+}
+.boton2{
+	background-color: white;
+    border: none;
+    border-radius: 20px;
+    color: #222222;
+}
+.boton2:hover {
+    color: #F05F40;
+    background-color: white;
+}
+.wt{
+    width: 100%
+}
